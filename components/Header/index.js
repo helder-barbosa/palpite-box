@@ -6,13 +6,13 @@ const Header = () => {
     <div>
       <div className='bg-gray-300 p-4 shadow-md'>
         <div className='container mx-auto'>
-          <img className=' mx-auto' src='/logo.png'></img>
+          <Link href='/'>
+            <a><img className=' mx-auto' src='/logo.png'></img></a>
+          </Link>
         </div>
       </div>
       <div className='bg-gray-400 p-4 shadow-md text-center font-semibold'>
-        <Link href='/'>
-          <a className='px-3 hover:underline'>Home</a>
-        </Link>
+
         <Link href='/sobre'>
           <a className='px-3 hover:underline'>Sobre</a>
         </Link>

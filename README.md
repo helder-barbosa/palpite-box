@@ -1,8 +1,5 @@
 # PalpiteBox
 
-[![HitCount](https://hits.dwyl.com/helder-barbosa/helder-barbosa/palpite-box.svg)](https://hits.dwyl.com/helder-barbosa/helder-barbosa/palpite-box)
-
-
 ## Início
 
 Ferramenta de Cadastro e Geração de Cupons para pequenos negócios.
